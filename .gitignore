@@ -1,0 +1,8 @@
+# Repository-level ignores. Per-project ignores live inside template/.
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

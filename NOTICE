@@ -1,0 +1,11 @@
+HDL Project Template
+Copyright 2026 ZhangShen (ColsonZhang)
+
+This product includes software developed by The Verible Authors:
+  template/tool/VeribleFilelist/verible_verilog_syntax.py
+  (Python wrapper for verible-verilog-syntax)
+  Licensed under the Apache License, Version 2.0.
+  Source: https://github.com/chipsalliance/verible
+
+The remaining files are original work released under the Apache License 2.0,
+unless stated otherwise (third-party files keep their original headers).

@@ -1,0 +1,5 @@
+# Any directory named abandon/ is ignored: parking lot for deprecated code.
+# (the filelist generator also prunes abandon/ subtrees automatically)
+**abandon/
+# Simulation datasets are never committed. Keep them under test/testbench_data/.
+**testbench_data/

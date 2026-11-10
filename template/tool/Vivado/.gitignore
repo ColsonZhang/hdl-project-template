@@ -1,0 +1,10 @@
+# Generated Vivado project / outputs are never committed.
+projects/
+output/
+*.jou
+*.log
+*.str
+*.Xil
+*.bit
+*.hwh
+*.ltx
